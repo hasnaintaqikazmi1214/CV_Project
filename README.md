@@ -40,9 +40,9 @@ This can be useful for further statistical analysis and computing violation metr
 # Augmented Model performance:
 
 ## Accuracy Graph:
-![alt text](https://github.com/hasnaintaqikazmi1214/CV_Project/blob/main/Accuracy.pdf?raw=true)
+![alt text](https://github.com/hasnaintaqikazmi1214/CV_Project/blob/main/Accuracy.pdf)
 ## Loss Graph:
-![alt text](https://github.com/hasnaintaqikazmi1214/CV_Project/blob/main/loss.pdf?raw=true)
+![alt text](https://github.com/hasnaintaqikazmi1214/CV_Project/blob/main/loss.pdf)
 
 ## References
 
