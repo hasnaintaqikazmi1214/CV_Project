@@ -37,10 +37,12 @@ Each person is assigned a unique identity which is carried forward in subsequent
 
 This can be useful for further statistical analysis and computing violation metrics.
 
-# Augmented Model performance
+# Augmented Model performance:
 
-
-
+## Accuracy Graph:
+![alt text](?raw=true)
+## Loss Graph:
+![alt text](?raw=true)
 ## References
 
 1) Social Distancing-https://github.com/deepak112/Social-Distancing-AI
