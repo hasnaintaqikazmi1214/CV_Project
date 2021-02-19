@@ -50,7 +50,7 @@ This can be useful for further statistical analysis and computing violation metr
 1) Kaggle Dataset: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
 2) Github Dataset: https://github.com/prajnasb/observations/tree/master/experiements/data
 
-# Pre-Train Model Weighs Link:
+# Pre-Train Model Weights Link:
 https://drive.google.com/file/d/1tGT4sfl0XeN3HGUBuF-GIf4kJ-IetBfM/view?usp=sharing
 
 # How to Load Pre-Train Weights
