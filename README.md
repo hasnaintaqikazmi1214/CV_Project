@@ -42,10 +42,10 @@ This can be useful for further statistical analysis and computing violation metr
 ## Accuracy Graph:
 
 <a href="Accuracy.pdf" class="image fit" type="application/pdf"></a>
-
+![alt text](https://github.com/hasnaintaqikazmi1214/CV_Project/blob/main/accuracy.png)
 
 ## Loss Graph:
-![alt text](https://github.com/hasnaintaqikazmi1214/CV_Project/blob/main/loss.pdf)
+![alt text](https://github.com/hasnaintaqikazmi1214/CV_Project/blob/main/loss.png)
 
 ## References
 
