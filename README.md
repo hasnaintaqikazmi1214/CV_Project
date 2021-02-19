@@ -27,9 +27,7 @@ The surrounding boxes are classified as follows-
 
 3) Green-Low Risk
 
-Face Mask are also detected in video and persons are classfied into two groups i.e With Mask with green bounding box and Without Mask with 
-
-red bounding box
+Face Mask are also detected in video and persons are classfied into two groups i.e With Mask with green bounding box and Without Mask with red bounding box
 
 Another aspect incorporated was tracking people. This was accomplished using SORT(Simple Online Realtime Tracking) technique.
 
