@@ -45,6 +45,18 @@ This can be useful for further statistical analysis and computing violation metr
 ## Loss Graph:
 ![alt text](https://github.com/hasnaintaqikazmi1214/CV_Project/blob/main/loss.png)
 
+# Datasets:
+
+1) Kaggle Dataset: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
+2) Github Dataset: https://github.com/prajnasb/observations/tree/master/experiements/data
+
+# Pre-Train Model Weighs Link:
+https://drive.google.com/file/d/1tGT4sfl0XeN3HGUBuF-GIf4kJ-IetBfM/view?usp=sharing
+
+# How to Load Pre-Train Weighs
+load_model = keras.models.load_model("your_model_name")
+e.g. load_model_file = os.path.sep.join([args["yolo"], "model-017.model"])
+
 ## References
 
 1) Social Distancing-https://github.com/deepak112/Social-Distancing-AI
