@@ -40,8 +40,9 @@ This can be useful for further statistical analysis and computing violation metr
 # Augmented Model performance:
 
 ## Accuracy Graph:
-![alt text](https://github.com/hasnaintaqikazmi1214/CV_Project/blob/main/Accuracy.pdf)
-<a href="Accuracy.pdf" class="image fit"><img src="https://github.com/hasnaintaqikazmi1214/CV_Project/blob/main/Accuracy.pdf" alt=""></a>
+
+<a href="Accuracy.pdf" class="image fit" type="application/pdf"></a>
+
 
 ## Loss Graph:
 ![alt text](https://github.com/hasnaintaqikazmi1214/CV_Project/blob/main/loss.pdf)
