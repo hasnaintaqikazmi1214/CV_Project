@@ -53,8 +53,9 @@ This can be useful for further statistical analysis and computing violation metr
 # Pre-Train Model Weighs Link:
 https://drive.google.com/file/d/1tGT4sfl0XeN3HGUBuF-GIf4kJ-IetBfM/view?usp=sharing
 
-# How to Load Pre-Train Weighs
-load_model = keras.models.load_model("your_model_name")
+# How to Load Pre-Train Weights
+load_model = keras.models.load_model("your_model_name") 
+Put pre-train weights in Yolo folder and use as under
 e.g. load_model_file = os.path.sep.join([args["yolo"], "model-017.model"])
 
 ## References
