@@ -15,6 +15,8 @@ Firstly humans are identified in a video stream using YOLO(You Only Look Once)- 
 
 P.S.- Due to the large size of yolo.weights file it could not be uploaded. It can be downloaded from https://pjreddie.com/media/files/yolov3.weights
 
+Download yolo.weights and cut-paste it in yolo-coco folder
+
 Each person detected is bounded by a rectangular box in order to locate the person.
 
 The camera perspective is transformed to a bird-eye view (top down) for effectively computing euclidean distance between people.
